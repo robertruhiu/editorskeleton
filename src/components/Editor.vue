@@ -29,7 +29,7 @@ import {
 import {registerLicense} from '@syncfusion/ej2-base';
 import AiChat from "./AiChat.vue";
 
-registerLicense('Ngo9BigBOggjHTQxAR8/V1NAaF1cW2hIfEx1RHxQdld5ZFRHallYTnNWUj0eQnxTdEFjW35YcHBXTmBaWUR/Ww==');
+registerLicense('');
 export default defineComponent({
   components: {
 
